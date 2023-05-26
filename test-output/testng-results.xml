@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-25T02:17:38 PDT" name="Default suite" finished-at="2023-05-25T02:17:40 PDT" duration-ms="2216">
+    <groups>
+    </groups>
+    <test started-at="2023-05-25T02:17:38 PDT" name="Default test" finished-at="2023-05-25T02:17:40 PDT" duration-ms="2216">
+      <class name="tek.api.sqa.tests.SecurityTest">
+        <test-method is-config="true" signature="setupApiTest()[pri:0, instance:tek.api.sqa.tests.SecurityTest@2438dcd]" started-at="2023-05-25T02:17:38 PDT" name="setupApiTest" finished-at="2023-05-25T02:17:38 PDT" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupApiTest -->
+        <test-method signature="testGenerateTokenValidUser()[pri:0, instance:tek.api.sqa.tests.SecurityTest@2438dcd]" started-at="2023-05-25T02:17:38 PDT" name="testGenerateTokenValidUser" finished-at="2023-05-25T02:17:40 PDT" duration-ms="1756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGenerateTokenValidUser -->
+      </class> <!-- tek.api.sqa.tests.SecurityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
